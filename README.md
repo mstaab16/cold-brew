@@ -2,8 +2,6 @@
 COLDBREW: Code for Orienting Lattice Data into a BZ Reconstructed of Electron Wavevectors
 
 A tool for projecting ARPES data into a single Brillouin zone, finding inner potential, and visualizing reconstructed spectra along chosen paths in momentum space.
-<<<<<<< HEAD
-=======
 
 This project was made using kedro as a datascience pipline building tool.
 The origionally generated README is below and will be removed in future commits.
